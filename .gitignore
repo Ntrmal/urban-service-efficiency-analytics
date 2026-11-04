@@ -1,0 +1,10 @@
+# Ignore all data files
+data/*
+
+# Ignore editable reports and temporary files
+report/*.odt
+~$*
+
+# System files
+.DS_Store
+Thumbs.db
