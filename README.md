@@ -66,7 +66,8 @@ The original dataset is not included in this repository because of its large fil
 
 
 
-\[View the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1I-UmAYDzkeOMPFx6D8Dwn5Qws5\_wYSOX3DuNccro6ls/edit?usp=sharing)
+
+[View the Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1I-UmAYDzkeOMPFx6D8Dwn5Qws5_wYSOX3DuNccro6ls/edit?usp=sharing)
 
 
 
