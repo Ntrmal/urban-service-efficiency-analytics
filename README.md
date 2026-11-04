@@ -35,8 +35,7 @@ I used SQL to clean and analyse the data and Google Sheets to create a dashboard
 ##### \## Dataset
 
 
-
-\- Source: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about\_data
+Source: [NYC Open Data – 311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data)
 
 \- Period: January–March 2026
 
